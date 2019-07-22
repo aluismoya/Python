@@ -1,17 +1,32 @@
+# Python
 
-diccionario = {}
 
-diccionario["nombre"] = "Codi"
+Ejercicios de estructuras Python
+Abrir temario playlist_play
+Next
+Lo lees en 1 Min.
 
-valor =diccionario["nombre"]
+Los siguientes, son una serie de ejercicios que tienen como finalidad el que tu practiques los conocimientos adquiridos a lo largo de estos bloques.
 
-diccionario["nombre"] = 90
+Dado un diccionario, el cual almacena las calificaciones de un alumno, siendo las llaves los nombres de las materia y los valores las calificación, mostrar en pantalla el promedio del alumno.
+Ejemplo: calificaciones = {calculo:10, dibujo:5}
 
-print(diccionario)
+A partir del diccionario del ejercicio anterior, mostrar en pantalla la materia con mejor promedio.
 
-print (valor)
+Crear una lista la cual almacene 10 números positivos ingresados por el usuario, mostrar en pantalla: la suma de todos los números, el promedio, el número mayor y el número menor.
 
-diccionario2 = {"a":1, "b":2, "c":3, "a":4}
+Dado una lista de frases ingresadas por el usuario, mostrar en pantalla todas aquellas que sean palíndromo.
 
-print(diccionario2)
+Mostrar en pantalla la palabra que más se repita junto con la cantidad de veces que lo hace del capituló número uno de Frankenstein
 
+Remplazar cada letra de una frase dada por el usuario por la posición que le corresponde en el abecedario y mostrar el nuevo string en pantalla. (Los espacios no se remplazan) . Ejemplo: frase : 'Hola' salida : 815121 H(8) o(15) l(12) a(1)
+
+Mostrar en pantalla la cantidad de vocales que existe en una frase dada por el usuario.
+
+Mostrar en pantalla la frecuencia de aparición de vocales en una frase dada por el usuario.
+
+Ejemplo : 'Hola Mundo' salida : o=2, a=3, u=1
+
+Eliminar todas las vocales de una frase dado por el usuario y mostrar el nuevo string en pantalla.
+
+Listar todos los números pares del 0 al 100
